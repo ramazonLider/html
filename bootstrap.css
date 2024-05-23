@@ -3172,6 +3172,10 @@ textarea.form-control.is-invalid {
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
+#icon-instagram {
+    margin-right: 10px;
+}
+
 #facebook {
     display: inline-block;
     font-weight: 400;
@@ -3192,6 +3196,10 @@ textarea.form-control.is-invalid {
     font-size: 1.15rem;
     border-radius: 0.25rem;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+#icon-facebook {
+    margin-right: 10px;
 }
 
 #telegram {
@@ -3216,6 +3224,10 @@ textarea.form-control.is-invalid {
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
+#icon-telegram {
+    margin-right: 10px;
+}
+
 #phone {
     display: inline-block;
     font-weight: 400;
@@ -3236,6 +3248,10 @@ textarea.form-control.is-invalid {
     font-size: 1.15rem;
     border-radius: 0.25rem;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+#icon-phone {
+    margin-right: 17px;
 }
 
 @media (prefers-reduced-motion: reduce) {
