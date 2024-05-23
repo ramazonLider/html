@@ -3180,7 +3180,7 @@ textarea.form-control.is-invalid {
     text-align: center;
     text-decoration: none;
     width: 350px;
-    font-family: fantasy;
+    font-family: monospace;
     vertical-align: middle;
     cursor: pointer;
     -webkit-user-select: none;
@@ -3202,7 +3202,7 @@ textarea.form-control.is-invalid {
     text-align: center;
     text-decoration: none;
     width: 350px;
-    font-family: fantasy;
+    font-family: monospace;
     vertical-align: middle;
     cursor: pointer;
     -webkit-user-select: none;
@@ -3224,7 +3224,7 @@ textarea.form-control.is-invalid {
     text-align: center;
     text-decoration: none;
     width: 350px;
-    font-family: fantasy;
+    font-family: monospace;
     vertical-align: middle;
     cursor: pointer;
     -webkit-user-select: none;
