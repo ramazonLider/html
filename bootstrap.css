@@ -3136,7 +3136,7 @@ textarea.form-control.is-invalid {
     color: #212529;
     text-align: center;
     text-decoration: none;
-    width: 300px;
+    width: 450px;
     vertical-align: middle;
     cursor: pointer;
     -webkit-user-select: none;
@@ -3157,7 +3157,7 @@ textarea.form-control.is-invalid {
     color: red;
     text-align: center;
     text-decoration: none;
-    width: 300px;
+    width: 350px;
     vertical-align: middle;
     cursor: pointer;
     -webkit-user-select: none;
@@ -3178,7 +3178,8 @@ textarea.form-control.is-invalid {
     color: #1877f2;
     text-align: center;
     text-decoration: none;
-    width: 300px;
+    width: 350px;
+    
     vertical-align: middle;
     cursor: pointer;
     -webkit-user-select: none;
@@ -3199,7 +3200,8 @@ textarea.form-control.is-invalid {
     color: #0088cc;
     text-align: center;
     text-decoration: none;
-    width: 300px;
+    width: 350px;
+
     vertical-align: middle;
     cursor: pointer;
     -webkit-user-select: none;
@@ -3220,7 +3222,8 @@ textarea.form-control.is-invalid {
     color: green;
     text-align: center;
     text-decoration: none;
-    width: 300px;
+    width: 350px;
+
     vertical-align: middle;
     cursor: pointer;
     -webkit-user-select: none;
